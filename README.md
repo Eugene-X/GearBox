@@ -1,3 +1,3 @@
-# GearBox
-// Welcome..? \n
-// Really have some one visit my GearBox?
+# Welcome to GearBox
+
+Really have some one visit my GearBox?
